@@ -45,7 +45,7 @@
         <maven-javadoc-plugin.version>2.10.2</maven-javadoc-plugin.version>
         <maven-source-plugin.version>2.2.1</maven-source-plugin.version>
         <maven-antrun-plugin.version>1.8</maven-antrun-plugin.version>
-        <maven-assembly-plugin.version>2.5.3</maven-assembly-plugin.version>
+        <maven-assembly-plugin.version>3.1.1</maven-assembly-plugin.version>
         <maven-dependency-plugin.version>2.9</maven-dependency-plugin.version>
         <coveralls-maven-plugin.version>3.1.0</coveralls-maven-plugin.version>
         <jacoco-maven-plugin.version>0.8.2</jacoco-maven-plugin.version>
